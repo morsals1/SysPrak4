@@ -1,0 +1,3 @@
+﻿  PrakSnake.cpp
+C:\Users\mensh\Desktop\PrakSnake\PrakSnake.cpp(144,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PrakSnake.vcxproj -> C:\Users\mensh\Desktop\PrakSnake\x64\Debug\PrakSnake.exe
